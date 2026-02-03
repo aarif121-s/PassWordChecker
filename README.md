@@ -40,19 +40,16 @@ Java Runtime Environment (JRE) 8 or higher
 
 # Installation
 Clone the repository:
-
-bash
 git clone https://github.com/aarif121-s/PassWordChecker.git
 cd password-strength-checker
+
 Compile the application:
-
-bash
 javac PasswordStrengthChecker.java
-Run the application:
 
-bash
+Run the application:
 java PasswordStrengthChecker
-Alternative: Using an IDE
+
+# Alternative: Using an IDE
 Open the project in your preferred Java IDE (Eclipse, IntelliJ IDEA, NetBeans)
 
 Import the PasswordStrengthChecker.java file
