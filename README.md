@@ -42,7 +42,7 @@ Java Runtime Environment (JRE) 8 or higher
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/password-strength-checker.git
+git clone https://github.com/aarif121-s/PassWordChecker.git
 cd password-strength-checker
 Compile the application:
 
